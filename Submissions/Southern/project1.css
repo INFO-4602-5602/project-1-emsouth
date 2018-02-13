@@ -7,11 +7,12 @@ body {
 .axis line {
     fill: none;
     stroke: #000;
+    stroke-width: 1;
     shape-rendering: crispEdges;
 }
 
 .point {
-    fill: #f00; 
+    fill: #f00;
     stroke: #000;
 }
 
